@@ -14,6 +14,7 @@ Get Telegram alerts on your phone and approve snipes remotely.
 - ETH + Base chain support with custom RPC
 - Gas guard, balance check, auto-retry (3x)
 - Full logging to logs/sniper.log
+- Fun
 
 ## Setup
 
