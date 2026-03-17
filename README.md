@@ -1,5 +1,7 @@
 # Smart Kriminal — NFT Sniper Bot
 
+> Built by [**.87**](https://t.me/Labs87) &nbsp;·&nbsp; [@ofalamin](https://x.com/ofalamin) on 𝕏 &nbsp;·&nbsp; [t.me/Labs87](https://t.me/Labs87)
+
 Terminal-based NFT sniper for **Ethereum** and **Base**.
 Monitors OpenSea and MagicEden. Auto-buys when price drops below your target.
 Get Telegram alerts on your phone and approve snipes remotely.
@@ -52,3 +54,11 @@ Accept and Reject buttons. Tap Accept and the snipe fires immediately.
 ## Disclaimer
 
 For educational purposes only. Use at your own risk.
+
+---
+
+<p align="center">
+  Built by <strong>.87</strong> &nbsp;·&nbsp;
+  <a href="https://x.com/ofalamin">@ofalamin</a> on 𝕏 &nbsp;·&nbsp;
+  <a href="https://t.me/Labs87">t.me/Labs87</a>
+</p>
