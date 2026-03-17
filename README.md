@@ -23,7 +23,11 @@ Get Telegram alerts on your phone and approve snipes remotely.
     npm install
     cp .env.example .env
 
-Fill in your .env, then:
+Now open the .env file to fill in your wallet, RPC, and API keys:
+
+    nano .env
+
+Edit the values, then save with `Ctrl+X` → `Y` → `Enter`. Then run:
 
     npm start
 
